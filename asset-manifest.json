@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a6cc42e.chunk.css",
+    "main.js": "/static/js/main.72140caf.chunk.js",
+    "main.js.map": "/static/js/main.72140caf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c69dd396.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c69dd396.js.map",
+    "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
+    "static/js/2.632e95aa.chunk.js": "/static/js/2.632e95aa.chunk.js",
+    "static/js/2.632e95aa.chunk.js.map": "/static/js/2.632e95aa.chunk.js.map",
+    "static/js/3.8461486d.chunk.js": "/static/js/3.8461486d.chunk.js",
+    "static/js/3.8461486d.chunk.js.map": "/static/js/3.8461486d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.9a6cc42e.chunk.css.map": "/static/css/main.9a6cc42e.chunk.css.map",
+    "static/js/2.632e95aa.chunk.js.LICENSE.txt": "/static/js/2.632e95aa.chunk.js.LICENSE.txt",
+    "static/media/fores4k.ae657c85.jpg": "/static/media/fores4k.ae657c85.jpg",
+    "static/media/forest4k2.6de17357.jpg": "/static/media/forest4k2.6de17357.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c69dd396.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.632e95aa.chunk.js",
+    "static/css/main.9a6cc42e.chunk.css",
+    "static/js/main.72140caf.chunk.js"
+  ]
+}
